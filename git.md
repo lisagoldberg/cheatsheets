@@ -8,3 +8,4 @@ git clone
 git reset
 git checkout
 git merge
+making changes making changes
