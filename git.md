@@ -9,3 +9,5 @@ git reset
 git checkout
 git merge
 making changes making changes
+
+Thanks for allowin me to view your cheats! - Sean
